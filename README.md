@@ -1,2 +1,7 @@
-# JavaScript-
-Here are all the codes i written while learning JavaSript
+# JavaScript
+All the code i have written while learning JavaScript
+
+
+## Tech Stack
+
+**JavaScript** 
