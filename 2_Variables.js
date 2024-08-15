@@ -2,7 +2,7 @@
 /*
   const - The value cannot be changed
   let - the value can be changed
-  var the value can be changed (not recommended)
+  var - the value can be changed (not recommended)
 */
 let name = 'Taylor swift';
 
